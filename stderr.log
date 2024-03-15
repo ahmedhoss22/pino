@@ -1,0 +1,2924 @@
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:47:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:55:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:41:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:50:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:43:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:56:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:49:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:49:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:49:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:49:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:51:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at User.findByEmail (/home/pinosa/testapi/models/userModel.js:20:31)
+    at /home/pinosa/testapi/controllers/authController.js:18:29
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+Error in Login Route: Error: Error fetching user from the database
+    at User.findByEmail (/home/pinosa/testapi/models/userModel.js:28:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/pinosa/testapi/controllers/authController.js:18:18
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND pino.sa 
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: 'ENOTFOUND',
+  errno: -3008,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:89:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:22) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error saving submission to the database: Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+    at PromisePool.execute (/home/pinosa/nodevenv/testapi/18/lib/node_modules/mysql2/promise.js:374:22)
+    at Submission.saveSubmissionToDatabase (/home/pinosa/testapi/models/submissionModel.js:84:39)
+    at Submission.postSubmission (/home/pinosa/testapi/models/submissionModel.js:55:33)
+    at /home/pinosa/testapi/app.js:42:15
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:346:12) {
+  code: undefined,
+  errno: undefined,
+  sql: undefined,
+  sqlState: undefined,
+  sqlMessage: undefined
+}
+
+Node.js v18.18.2
+Error: Cannot find module './socket'
+Require stack:
+- /home/pinosa/testapi/controllers/submissionController.js
+- /home/pinosa/testapi/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at /home/pinosa/testapi/controllers/submissionController.js:14:14
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+Error: Cannot find module './socket'
+Require stack:
+- /home/pinosa/testapi/controllers/submissionController.js
+- /home/pinosa/testapi/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at /home/pinosa/testapi/controllers/submissionController.js:14:14
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15
+Error sending submissions: Error: Cannot find module './socket'
+Require stack:
+- /home/pinosa/testapi/controllers/submissionController.js
+- /home/pinosa/testapi/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at /home/pinosa/testapi/controllers/submissionController.js:14:14
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/pinosa/testapi/controllers/submissionController.js',
+    '/home/pinosa/testapi/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+Error sending submissions: Error: Cannot find module './socket'
+Require stack:
+- /home/pinosa/testapi/controllers/submissionController.js
+- /home/pinosa/testapi/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at /home/pinosa/testapi/controllers/submissionController.js:14:14
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/pinosa/testapi/controllers/submissionController.js',
+    '/home/pinosa/testapi/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+Error sending submissions: Error: Cannot find module './socket'
+Require stack:
+- /home/pinosa/testapi/controllers/submissionController.js
+- /home/pinosa/testapi/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at /home/pinosa/testapi/controllers/submissionController.js:14:14
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pinosa/nodevenv/testapi/18/lib/node_modules/express/lib/router/index.js:284:15 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/pinosa/testapi/controllers/submissionController.js',
+    '/home/pinosa/testapi/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+jwt expired
+jwt expired
+jwt expired
+jwt expired
+jwt expired
+jwt expired
+jwt expired
